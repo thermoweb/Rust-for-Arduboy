@@ -209,6 +209,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "rpg_solo"
+version = "0.1.0"
+dependencies = [
+ "arduboy-rust",
+]
+
+[[package]]
 name = "rustacean"
 version = "0.1.0"
 dependencies = [
